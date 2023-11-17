@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    border: 3px solid red;
+    width: 35vw;
+    margin: 50px;
+
+}
+.first{
+    border: 3px solid red;
+    margin: 20px;
+    width: 95%;
+}
+.second{
+    border: 3px solid red;
+    margin: 20px;
+    width: 95%;
+    height: 10%;
+    padding: 5px;
+
+}
+.third{
+    border: 3px solid red;
+    margin: 20px;
+    width: 95%;
+    padding: 4px; 
+}
+ul{
+    padding: 5px;
+
+}
+li{
+    border: 2px solid red;
+    padding: 5px;
+}
+span{
+    border: 2px solid red;
+    padding: 5px;
+}
